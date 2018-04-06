@@ -1,0 +1,7 @@
+   1      Maksymiv_Mykola		   property_insurance 		2017.04.25.  
+   2        Ivasun_Andriy		real_estate_insurance 		2020.09.29.
+   3    Andrusiv_Yevgeniy		real_estate_insurance  		2021.05.20.
+   4       Brookiv_Mykola		    medical_insurance		2017.05.16.
+   5         Musyura_Ivan		      KASKO_insurance		2020.09.02.
+   6         Kuviz_Viktor	          KASKO_insurance		2021.11.22.
+ 

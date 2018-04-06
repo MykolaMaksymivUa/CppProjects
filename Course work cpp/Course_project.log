@@ -1,0 +1,4 @@
+﻿  Client.cpp
+c:\users\best!!!\desktop\course_project\course_project\client.cpp(94): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Course_project.vcxproj -> C:\Users\Best!!!\Desktop\Course_project\x64\Debug\Course_project.exe
+  Course_project.vcxproj -> C:\Users\Best!!!\Desktop\Course_project\x64\Debug\Course_project.pdb (Full PDB)
